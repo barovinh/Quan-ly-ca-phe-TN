@@ -1,0 +1,24 @@
+﻿I enlighet med definitionen av "Runtime-produkt" i avsnittet "Crystal Reports Runtime-produkt"
+i licensavtalet utgör följande filer en "Runtime-produkt":
+
+
+CRYSTAL REPORTS .NET MERGE-MODULER
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, där xx är en viss språkkod.
+
+
+CRYSTAL REPORTS .NET-DISTRIBUTIONSFILER FÖR CLICKONCE- OCH FRISTÅENDE INSTALLATIONER
+===========================================================================
+
+32-bitars Runtime:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64-bitars Runtime:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+
+
+

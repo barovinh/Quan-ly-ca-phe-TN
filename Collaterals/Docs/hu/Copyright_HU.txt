@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE vagy SAP kapcsolódó vállalat. Minden jog fenntartva.
+Jelen kiadvány semmilyen része nem másolható és nem továbbítható semmilyen formában és semmilyen célból az SAP SE kifejezett engedélye nélkül. A jelen kiadványban található információk előzetes értesítés nélküli változtatásának jogát az SAP SE fenntartja. 
+Az SAP SE és viszonteladói által értékesített bizonyos szoftvertermékek más szoftverszállítók tulajdonosi szoftverkomponenseit tartalmazzák. 
+A Microsoft, Windows, Excel, Outlook, és a PowerPoint a Microsoft Corporation bejegyzett védjegye. 
+Az IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner, WebSphere, Netfinity, Tivoli és az Informix az IBM Corporation bejegyzett védjegye. 
+A Linux Linus Torvalds Egyesült Államokban és más országokban bejegyzett védjegye.
+Az Adobe, az Adobe embléma, az Acrobat, a PostScript és a Reader az Adobe Systems Incorporated Egyesült Államokban és/vagy a világ más országaiban bejegyzett védjegye.
+Az Oracle az Oracle Corporation bejegyzett védjegye. 
+A UNIX, az X/Open, az OSF/1 és a Motif az Open Group bejegyzett védjegyei. 
+A Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame és a MultiWin  a Citrix Systems, Inc védjegye vagy bejegyzett védjegye. 
+A HTML, XML, XHTML és a W3C a W3C®, World Wide Web Consortium, Massachusetts Institute of Technology bejegyzett védjegye. 
+A Java a Sun Microsystems, Inc. bejegyzett védjegye. 
+A JavaScript a Sun Microsystems, Inc. bejegyzett védjegye, a Netscape által kifejlesztett és megvalósított technológiára vonatkozó licenc révén alkalmazva. 
+Az SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign és a jelen dokumentumban előforduló egyéb SAP-termékek és -szolgáltatások és a hozzájuk tartozó emblémák az SAP SE Németországban és más országokban bejegyzett védjegyei. 
+A Business Objects és a Business Objects embléma, a BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius, és a jelen dokumentumban előforduló egyéb Business Objects termékek és szolgáltatások, valamint a hozzájuk tartozó emblémák a Business Objects S.A. Egyesült Államokban és más országokban bejegyzett védjegyei. A Business Objects egy SAP-vállalat.
+Minden más említett termék- és szolgáltatásnév a vonatkozó vállalat védjegye. A dokumentumban szereplő adatok kizárólag tájékoztatási célt szolgálnak. A termékjellemzők az egyes országokban eltérőek lehetnek.
+Az anyagok értesítés nélkül változhatnak. Az anyagokat az SAP SE és leányvállalatai (az „SAP csoport”) kizárólag tájékoztatási célból bocsátja rendelkezésre, bármilyen felelősség vagy garancia nélkül, és az SAP csoport nem vállal felelősséget az anyagokkal kapcsolatos hibákért vagy hiányosságokért. Az SAP csoport termékeire és szolgáltatásaira kizárólag a termékeket vagy szolgáltatásokat esetlegesen kísérő kifejezett garancianyilatkozatban foglalt garanciák érvényesek. A jelen tartalom nem értelmezhető további garancia alapjaként.

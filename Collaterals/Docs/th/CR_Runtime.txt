@@ -1,0 +1,17 @@
+﻿ตามคำจำกัดความของ "ผลิตภัณฑ์รันไทม์" ภายใต้ส่วน "ผลิตภัณฑ์รันไทม์ของ Crystal Reports"
+ที่ระบุในข้อตกลงเกี่ยวกับการให้สิทธิ์ใช้งาน ไฟล์ต่อไปนี้ถือเป็น "ผลิตภัณฑ์รันไทม์":
+
+โมดูลการผสานรวมของ CRYSTAL REPORTS .NET
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm ซึ่ง xx คือรหัสภาษาเฉพาะ
+
+CRYSTAL REPORTS .NET REDISTRIBUTABLES FOR CLICKONCE AND STANDALONE INSTALLS
+==============================================================================
+รันไทม์แบบ 32 บิต:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+รันไทม์แบบ 64 บิต:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe

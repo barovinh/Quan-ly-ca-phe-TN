@@ -1,0 +1,22 @@
+﻿Seuraavat tiedostot muodostavat "ajonaikaisen tuotteen", joka on määritelty lisenssisopimuksen ajonaikaista Crystal Reports -tuotetta
+koskevassa osiossa:
+
+
+CRYSTAL REPORTS .NET -YHDISTÄMISMODUULIT
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, jossa xx on käytetyn kielen koodi.
+
+
+UUDELLEENJAELTAVAT CRYSTAL REPORTS .NET -PAKETIT YHDEN NAPSAUTUKSEN ASENNUSTA JA ERILLISTÄ ASENNUSTA VARTEN
+===========================================================================
+
+32-bittinen ajoaika:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64-bittinen ajoaika:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

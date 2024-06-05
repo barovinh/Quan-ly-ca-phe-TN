@@ -1,0 +1,22 @@
+As per the definition of “Runtime Product” under the “Crystal Reports Runtime Product” 
+section of the License Agreement, the following files constitute “Runtime Product”:
+
+
+CRYSTAL REPORTS .NET MERGE MODULES
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm ,where xx is a specific language code.
+
+
+
+CRYSTAL REPORTS .NET REDISTRIBUTABLES FOR CLICKONCE AND STANDALONE INSTALLS
+===========================================================================
+
+32-bit Runtime:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64-bit Runtime:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe

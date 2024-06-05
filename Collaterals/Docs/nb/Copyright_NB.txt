@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE eller et datterselskap av SAP. Med enerett.
+Det er ikke tillatt å reprodusere eller overføre hele eller deler av denne publikasjonen i noen form eller i noen hensikt uten uttrykkelig tillatelse fra SAP SE. Denne informasjonen kan endres uten forvarsel. 
+Noen programvareprodukter som markedsføres av SAP SE og forhandlerne til SAP, inneholder programvarekomponenter som tilhører andre programvareleverandører. 
+Microsoft, Windows, Excel, Outlook  og PowerPoint  er registrerte varemerker for Microsoft Corporation. 
+IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner, WebSphere, Netfinity, Tivoli og Informix er varemerker eller registrerte varemerker for IBM Corporation. 
+Linux er et registrert varemerke for Linus Torvalds i USA og andre land.
+Adobe, Adobe-logoen, Acrobat, PostScript og Reader er enten varemerker eller registrerte varemerker for Adobe Systems Incorporated i USA og/eller i andre land.
+Oracle er et registrert varemerke for Oracle Corporation. 
+ UNIX, X/Open, OSF/1 og Motif er registrerte varemerker for Open Group. 
+Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame og MultiWin er varemerker eller registrerte varemerker for Citrix Systems, Inc. 
+HTML, XML, XHTML og W3C er varemerker eller registrerte varemerker for W3C®, World Wide Web Consortium, Massachusetts Institute of Technology. 
+Java er et registrert varemerke for Sun Microsystems, Inc. 
+JavaScript er et registrert varemerke for Sun Microsystems, Inc., brukt med lisens for teknologi oppfunnet og implementert av Netscape. 
+SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign og andre SAP-produkter og -tjenester som nevnes i dette dokumentet, samt deres respektive logoer, er varemerker eller registrerte varemerker for SAP SE i Tyskland og andre land. 
+Business Objects og Business Objects-logoen, BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius og andre Business Objects-produkter og -tjenester som nevnes i dette dokumentet, samt deres respektive logoer, er varemerker eller registrerte varemerker for Business Objects S.A. i USA og andre land. Business Objects er et SAP-selskap.
+Alle andre produkt- og tjenestenavn som nevnes, er varemerker som eies av de respektive firmaene. Dataene i dette dokumentet er bare til informasjon. Produktspesifikasjonene kan variere fra land til land.
+Dette materialet kan endres uten forvarsel. Materialet leveres av SAP SE og deres datterselskaper ("SAP-gruppen") kun til informasjonsformål, uten fremstilling eller garanti av noe slag, og SAP-gruppen skal ikke være ansvarlig for feil eller mangler når det gjelder materialet. De eneste garantiene for SAP-gruppens produkter og tjenester er de som er beskrevet i de eksplisitte garantierklæringene som eventuelt følger med slike produkter og tjenester. Ingenting i dette dokumentet skal tolkes som en tilleggsgaranti.

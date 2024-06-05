@@ -1,0 +1,24 @@
+﻿V súlade s definíciou „Produktu runtime“ v bode „Produkt runtime Crystal Reports“
+licenčnej zmluvy tvoria „Produkt runtime“ nasledujúce súbory:
+
+
+CRYSTAL REPORTS .NET MERGE MODULES
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm ,kde xx je kód príslušného jazyka.
+
+
+CRYSTAL REPORTS .NET REDISTRIBUTABLES FOR CLICKONCE AND STANDALONE INSTALLS
+===========================================================================
+
+Runtime 32 bitov:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+Runtime 64-bitov:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+
+
+

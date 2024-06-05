@@ -1,0 +1,22 @@
+﻿Zgodnie z definicją „Produktu Runtime” w sekcji „Produkt Runtime Crystal Reports”
+umowy licencyjnej „Produkt Runtime” składa się z następujących plików:
+
+
+CRYSTAL REPORTS .NET — MODUŁY SCALANIA
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, gdzie xx oznacza określony kod języka.
+
+
+PAKIETY DYSTRYBUCYJNE PROGRAMU CRYSTAL REPORTS .NET NA POTRZEBY SAMODZIELNYCH INSTALACJI CLICKONCE
+===========================================================================
+
+32-bitowe środowisko wykonawcze:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64-bitowe środowisko wykonawcze:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

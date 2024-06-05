@@ -1,0 +1,22 @@
+﻿Lisans Anlaşması'nın "Crystal Reports Çalışma Zamanı Ürünü" altındaki "Çalışma Zamanı Ürünü"
+tanımına göre, aşağıdaki dosyalar "Çalışma Zamanı"nın bileşenleridir:
+
+
+CRYSTAL REPORTS .NET BİRLEŞTİRME MODÜLLERİ
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, burada xx dil kodunu simgeler.
+
+
+CRYSTAL REPORTS .NET YENİDEN DAĞITILABİLİR PAKETLERİ, CLICKONCE VE STANDALONE KURULUMLAR İÇİN
+===========================================================================
+
+32 bit Çalışma Zamanı:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64 bit Çalışma Zamanı:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

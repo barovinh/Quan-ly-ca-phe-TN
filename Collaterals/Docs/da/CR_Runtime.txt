@@ -1,0 +1,21 @@
+﻿I henhold til definitionen af "Runtime Product" under afsnittet "Crystal Reports Runtime Product"
+i Licensaftalen udgør følende filer "Runtime Product":
+
+
+CRYSTAL REPORTS .NET MERGE MODULES
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, hvor xx er en specifik sprogkode.
+
+
+CRYSTAL REPORTS .NET REDISTRIBUTABLES TIL CLICKONCE- OG STANDALONE-INSTALLATIONER
+===========================================================================
+
+32-bit kørsel:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64-bit kørsel:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe

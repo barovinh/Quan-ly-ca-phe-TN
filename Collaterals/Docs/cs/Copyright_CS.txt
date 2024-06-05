@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE nebo přidružená společnost SAP. Všechna práva vyhrazena.
+Žádná část této publikace se nesmí reprodukovat ani přenášet v žádné formě a za žádným účelem bez výslovného svolení od SAP SE. Informace obsažené v tomto dokumentu se mohou měnit i bez předchozího upozornění. 
+Některé softwarové produkty uvedené na trh společností SAP SE a jejími distributory obsahují softwarové komponenty ve vlastnictví jiných dodavatelů softwaru. 
+Microsoft, Windows, Excel, Outlook a PowerPoint jsou registrované ochranné známky Microsoft Corporation. 
+IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power  Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner,  WebSphere, Netfinity, Tivoli a Informix jsou ochranné známky nebo registrované ochranné známky IBM Corporation. 
+Linux je registrovaná ochranná známka Linus Torvalds v USA a jiných zemích.
+Adobe, logo Adobe, Acrobat, PostScript a Reader jsou ochranné známky nebo registrované ochranné známky Adobe Systems Incorporated ve Spojených státech a jiných zemích.
+Oracle je registrovaná ochranná známka Oracle Corporation. 
+UNIX, X/Open, OSF/1 a Motif jsou registrované ochranné známky Open Group. 
+Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame a MultiWin jsou ochranné známky nebo registrované ochranné známky Citrix Systems, Inc. 
+HTML, XML, XHTML a W3C jsou ochranné známky nebo registrované ochranné známky W3C®, World Wide Web Consortium, Massachusetts Institute of Technology. 
+Java je registrovaná ochranná známka Sun Microsystems, Inc. 
+JavaScript je registrovaná ochranná známka Sun Microsystems, Inc. používaná na základě licence pro technologii vynalezenou a implementovanou společností Netscape. 
+ SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign a ostatní produkty a služby společnosti SAP zde zmíněné včetně příslušných log jsou ochranné známky nebo registrované ochranné známky společnosti SAP SE v Německu a jiných zemích. 
+Business Objects a logo Business Objects, BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius a ostatní produkty a služby Business Objects zde zmíněné včetně příslušných log jsou ochranné známky nebo registrované ochranné známky Business Objects S.A. ve Spojených státech a jiných zemích. Business Objects je společností SAP.
+ Všechny další názvy produktů a služeb zde zmíněné jsou ochranné známky příslušných společností. Údaje obsažené v tomto dokumentu slouží pouze k informačním účelům. Národní specifikace produktů se mohou lišit.
+ Tyto materiály mohou být změněny bez upozornění. Tyto materiály poskytuje společnost SAP SE a podniky v její skupině ("SAP Group") pouze k informativním účelům a bez jakékoliv záruky a SAP Group nepřijímá žádnou zodpovědnost za chyby a přehlédnutí v těchto materiálech. Jediné záruky za produkty a služby SAP Group jsou ty, které jsou uvedeny ve výslovných prohlášeních o záruce, obsažených v doprovodných dokumentech těchto produktů nebo služeb (pokud taková prohlášení existují). Nic z toho, co je zde uvedeno, nemůže být interpretováno jako další záruka.

@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE ou empresa afiliada da SAP. Todos os direitos reservados.
+Nenhuma parte desta publicação pode ser reproduzida ou transmitida sob qualquer forma, ou com qualquer objetivo, sem a autorização expressa da SAP SE. As informações aqui contidas podem ser modificadas sem prévio aviso. 
+Alguns produtos de software comercializados pela SAP SE e seus distribuidores contêm componentes de software proprietário de outros fornecedores de software. 
+Microsoft, Windows, Excel, Outlook e PowerPoint são marcas registradas da Microsoft Corporation. 
+IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner, WebSphere, Netfinity, Tivoli e Informix são marcas comerciais ou marcas registradas da IBM Corporation. 
+Linux é marca registrada da Linus Torvalds nos Estados Unidos e em outros países.
+Adobe, o logotipo Adobe, Acrobat, PostScript e Reader são marcas comerciais ou marcas registradas da Adobe Systems Incorporated nos Estados Unidos e/ou em outros países.
+Oracle é marca registrada da Oracle Corporation. 
+UNIX, X/Open, OSF/1 e Motif são marcas registradas da Open Group. 
+Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame e MultiWin são marcas comerciais ou marcas registradas da Citrix Systems, Inc. 
+HTML, XML, XHTML e W3C são marcas comerciais ou marcas registradas da W3C®, World Wide Web Consortium, Massachusetts Institute of Technology. 
+Java é marca registrada da Sun Microsystems, Inc. 
+JavaScript é marca registrada da Sun Microsystems, Inc., utilizada mediante licença para tecnologia inventada e implementada pela Netscape. 
+SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign e outros produtos e serviços SAP aqui mencionados, bem como seus respectivos logotipos, são marcas comerciais ou marcas registradas da SAP SE na Alemanha e em outros países. 
+Business Objects e o logotipo da Business Objects, BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius e outros produtos e serviços da Business Objects mencionados neste documento, bem como seus respectivos logotipos são marcas comerciais ou marcas registradas da Business Objects S.A. nos Estados Unidos e em outros países. A Business Objects é uma empresa da SAP.
+Todos os demais nomes de produtos e serviços aqui mencionados são marcas comerciais de suas respectivas empresas. Os dados incluídos neste documento são meramente informativos. As especificações nacionais dos produtos podem variar.
+Este material está sujeito a alterações sem prévio aviso. Ele é fornecido pela SAP SE e suas empresas afiliadas ("Grupo SAP") apenas para fins informativos, sem declaração ou garantia de qualquer espécie, e o Grupo SAP não se responsabiliza por omissões nem erros relativos ao mesmo. As únicas garantias para os produtos e serviços do Grupo SAP são aquelas definidas nas declarações expressas de garantia que acompanham tais produtos e serviços. Nada nos termos deste documento deve ser interpretado como garantia adicional.

@@ -1,0 +1,23 @@
+﻿依据许可协议的“Crystal Reports 运行时产品”一节中“运行时产品”的定义，
+以下文件构成“运行时产品”：
+
+
+Crystal Reports .NET 合并模块
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm，其中 xx 是特定的语言代码
+
+
+
+用于 ClickOnce 和独立安装的 Crystal Reports .NET 可再发行文件
+===========================================================================
+
+32 位运行时文件：
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64 位运行时文件：
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

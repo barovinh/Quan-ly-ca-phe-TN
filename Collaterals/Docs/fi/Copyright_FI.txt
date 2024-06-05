@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE tai SAP:n tytäryhtiö. Kaikki oikeudet pidätetään. 
+Tämän julkaisun osittainenkin kopiointi tai siirtäminen missä tahansa muodossa tai mihin tahansa tarkoitukseen on kielletty ilman SAP SE:n nimenomaista kirjallista lupaa. Tämän julkaisun sisältämiä tietoja voidaan muuttaa ilman erillistä ilmoitusta. 
+Jotkin SAP SE:n tai sen edustajien myymät ohjelmistotuotteet sisältävät muiden ohjelmistovalmistajien omistuksessa olevia ohjelmistokomponentteja. 
+Microsoft, Windows, Excel, Outlook ja PowerPoint ovat Microsoft Corporationin rekisteröityjä tavaramerkkejä. 
+IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner, WebSphere, Netfinity, Tivoli ja Informix ovat IBM Corporationin tavaramerkkejä tai rekisteröityjä tavaramerkkejä. 
+Linux on Linus Torvaldsin rekisteröity tavaramerkki Yhdysvalloissa ja muissa maissa.
+Adobe, Adobe-logo, Acrobat, PostScript ja Reader ovat Adobe Systems Incorporatedin tavaramerkkejä tai rekisteröityjä tavaramerkkejä Yhdysvalloissa ja/tai muissa maissa.
+Oracle on Oracle Corporationin rekisteröity tavaramerkki. 
+UNIX, X/Open, OSF/1 ja Motif ovat Open Groupin rekisteröityjä tavaramerkkejä. 
+Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame ja MultiWin ovat Citrix Systems, Inc:n tavaramerkkejä tai rekisteröityjä tavaramerkkejä.
+HTML, XML, XHTML ja W3C ovat W3C®, World Wide Web Consortium, Massachusetts Institute of Technologyn tavaramerkkejä tai rekisteröityjä tavaramerkkejä. 
+Java on Sun Microsystems, Inc:n rekisteröity tavaramerkki. 
+JavaScript on Sun Microsystems, Inc:n rekisteröity tavaramerkki, jota käytetään lisenssillä Netscapen kehittämässä ja käyttöönottamassa tekniikassa. 
+SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign ja muut tässä mainitut SAP-tuotteet ja -palvelut sekä niiden logot ovat SAP SE:n tavaramerkkejä tai rekisteröityjä tavaramerkkejä Saksassa ja muissa maissa. 
+Business Objects ja Business Objects -logo, BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius ja muut tässä mainitut Business Objects -tuotteet ja -palvelut sekä niiden logot ovat Business Objects S.A.:n tavaramerkkejä tai rekisteröityjä tavaramerkkejä Yhdysvalloissa ja muissa maissa. Business Objects on SAP-yritys.
+Kaikki muut mainitut tuote- ja palvelunimet ovat asianomaisten yhtiöiden tavaramerkkejä. Tämän asiakirjan sisältämät tiedot on tarkoitettu vain tiedotustarkoituksiin. Maakohtaiset tuotetiedot voivat vaihdella.
+Materiaalia voidaan muuttaa ilman erillistä ilmoitusta. Tämän materiaalin on laatinut SAP SE ja sen tytäryhtiöt ("SAP Group") vain tiedotustarkoituksiin ilman minkäänlaista takuuta, eikä SAP Group ole vastuussa materiaalin mahdollisista virheistä tai puutteellisuuksista. SAP Groupin tuotteita ja palveluita koskevat vain sellaiset mahdolliset takuut, jotka on esitetty kyseisiin tuotteisiin ja palveluihin liittyvissä nimenomaisissa takuuehdoissa. Minkään tässä julkaisussa esitetyn perusteella ei muodostu ylimääräistä takuuta.

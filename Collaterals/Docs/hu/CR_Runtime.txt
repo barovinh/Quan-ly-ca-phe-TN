@@ -1,0 +1,22 @@
+﻿A Licencszerződés "Crystal Reports Futtatótermék" szakaszában 
+meghatározottak szerint a "Futtatóterméket" a következő fájlok alkotják:
+
+
+CRYSTAL REPORTS .NET EGYESÍTŐ MODULOK
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, ahol xx az adott nyelv kódja.
+
+
+CRYSTAL REPORTS .NET TERJESZHETŐ CSOMAGOK CLICKONCE ÉS ÖNÁLLÓ TELEPÍTÉSEKHEZ
+===========================================================================
+
+32 bites futtató:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64 bites futtató:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

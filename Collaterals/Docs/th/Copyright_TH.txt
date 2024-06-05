@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE หรือบริษัทในเครือ SAP สงวนลิขสิทธิ์
+ห้ามไม่ให้มีการผลิตซ้ำหรือเผยแพร่สิ่งพิมพ์นี้ในรูปแบบใดๆ หรือเพื่อจุดประสงค์อื่นใดโดยไม่ได้รับอนุญาตจาก SAP SE ข้อมูลในสิ่งพิมพ์นี้อาจเปลี่ยนแปลงได้โดยไม่ต้องแจ้งให้ทราบล่วงหน้า 
+ผลิตภัณฑ์ซอฟต์แวร์บางตัวซึ่งทำการตลาดโดย SAP SE และผู้จัดจำหน่ายของ SAP SE ประกอบด้วยส่วนประกอบซอฟต์แวร์จดทะเบียนของผู้จำหน่ายซอฟต์แวร์รายอื่น  
+Microsoft, Windows, Excel, Outlook และ PowerPoint เป็นเครื่องหมายการค้าจดทะเบียนของ Microsoft Corporation 
+IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner, WebSphere, Netfinity, Tivoli และ Informix เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ IBM Corporation 
+Linux เป็นเครื่องหมายการค้าจดทะเบียนของ Linus Torvalds ในประเทศสหรัฐอเมริกาและประเทศอื่นๆ 
+Adobe, ตราสัญลักษณ์ของ Adobe, Acrobat, PostScript และ Reader เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ Adobe Systems Incorporated ในประเทศสหรัฐอเมริกาและประเทศอื่นๆ 
+Oracle เป็นเครื่องหมายการค้าจดทะเบียนของ Oracle Corporation 
+UNIX, X/Open, OSF/1 และ Motif เป็นเครื่องหมายการค้าจดทะเบียนของ Open Group 
+Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame และ MultiWin เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ Citrix Systems, Inc.
+HTML, XML, XHTML และ W3C เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ W3C®, World Wide Web Consortium, Massachusetts Institute of Technology 
+Java เป็นเครื่องหมายการค้าจดทะเบียนของ Sun Microsystems, Inc. 
+JavaScript เป็นเครื่องหมายการค้าจดทะเบียนของ Sun Microsystems, Inc. โดยใช้ภายใต้ใบอนุญาตสำหรับเทคโนโลยีที่ประดิษฐ์และนำไปใช้งานโดย Netscape 
+SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign และผลิตภัณฑ์กับบริการอื่นๆ ของ SAP ที่ระบุไว้ ณ ที่นี้ รวมทั้งตราสัญลักษณ์ของผลิตภัณฑ์และบริการดังกล่าว เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ SAP SE ในประเทศเยอรมันและประเทศอื่นๆ 
+Business Objects กับตราสัญลักษณ์ของ Business Objects, BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius และผลิตภัณฑ์กับบริการอื่นๆ ของ Business Objects ที่ระบุไว้ ณ ที่นี้ รวมทั้งตราสัญลักษณ์ของผลิตภัณฑ์และบริการดังกล่าว เป็นเครื่องหมายการค้าหรือเครื่องหมายการค้าจดทะเบียนของ Business Objects S.A. ในประเทศสหรัฐอเมริกาและประเทศอื่นๆ Business Objects เป็นบริษัทหนึ่งของ SAP
+ชื่อผลิตภัณฑ์และบริการอื่นๆ ที่ระบุไว้ทั้งหมดเป็นเครื่องหมายการค้าของบริษัทเจ้าของผลิตภัณฑ์และบริการดังกล่าว ข้อมูลที่มีอยู่ในเอกสารฉบับนี้มีไว้เพื่อวัตถุประสงค์ในการให้ข้อมูลเท่านั้น ข้อกำหนดของผลิตภัณฑ์อาจแตกต่างกันในแต่ละประเทศ
+เนื้อหาเหล่านี้อาจเปลี่ยนแปลงได้โดยไม่ต้องแจ้งให้ทราบล่วงหน้า SAP SE และบริษัทในเครือ ("SAP Group") จัดทำเนื้อหาเหล่านี้เพื่อวัตถุประสงค์ในการให้ข้อมูลเท่านั้น มิได้เป็นตัวแทนหรือเป็นการรับประกันชนิดใดๆ และ SAP Group จะไม่รับผิดชอบต่อข้อผิดพลาดหรือการละเว้นใดๆ ในส่วนของเนื้อหานั้นๆ  SAP Group จะรับประกันผลิตภัณฑ์และบริการในส่วนที่ได้อธิบายไว้ในข้อความรับประกันพิเศษเกี่ยวกับสินค้าและบริการดังกล่าว ข้อความที่อธิบายในที่นี้ไม่ถือว่าเป็นการรับประกันเพิ่มเติมแต่อย่างใด

@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP 股份公司或其关联公司版权所有，保留所有权利。
+除非得到 SAP SE 的明确批准，否则，任何人不得出于任何目的以任何形式复制或传播本文的内容。本文档中包含的信息如有更改，恕不另行通知。 
+由 SAP SE 及其分销商营销的部分软件产品包含了其他软件供应商的专有软件组件。 
+Microsoft、Windows、Outlook 和 PowerPoint 是 Microsoft Corporation 的注册商标。 
+IBM、DB2、DB2 Universal Database、System i、System i5、System p、System p5、System x、System z、System z10、System z9、z10、z9、iSeries、pSeries、xSeries、zSeries、eServer、z/VM、z/OS、i5/OS、S/390、OS/390、OS/400、AS/400、S/390 Parallel Enterprise Server、PowerVM、Power Architecture、POWER6+、POWER6、POWER5+、POWER5、POWER、OpenPower、PowerPC、BatchPipes、BladeCenter、System Storage、GPFS、HACMP、RETAIN、DB2 Connect、RACF、Redbooks、OS/2、Parallel Sysplex、MVS/ESA、AIX、Intelligent Miner、WebSphere、Netfinity、Tivoli 和 Informix 是 IBM Corporation 的商标或注册商标。 
+Linux 是 Linus Torvalds 在美国和其他国家/地区的注册商标。
+Adobe、Adobe 徽标、Acrobat、PostScript 和 Reader 是 Adobe Systems Incorporated 在美国和/或其他国家/地区的商标或注册商标。
+Oracle 是 Oracle Corporation 的注册商标。 
+UNIX、X/Open、OSF/1 和 Motif 是 Open Group 的注册商标。 
+Citrix、ICA、Program Neighborhood、MetaFrame、WinFrame、VideoFrame 和 MultiWin 是 Citrix Systems, Inc. 的商标或注册商标。
+HTML、XML、XHTML 和 W3C® 是麻省理工学院 W3C® (World Wide Web) 协会的商标或注册商标。 
+Java 是 Sun Microsystems 公司的注册商标。 
+JavaScript 是 Sun Microsystems, Inc. 的注册商标，在 Netscape 发明并实施的技术许可下被使用。 
+SAP、R/3、SAP NetWeaver、Duet、PartnerEdge、ByDesign、SAP Business ByDesign 以及文中提及的其他 SAP 产品和服务及其各自的徽标是 SAP SE 在德国和其他国家/地区的商标或注册商标。 
+Business Objects 和 Business Objects 徽标、BusinessObjects、Crystal Reports、Crystal Decisions、Web Intelligence、Xcelsius 和此处提及的其他 Business Objects 产品和服务以及徽标,是 Business Objects S.A. 在美国和其他国家或地区的商标或注册商标。Business Objects 是一家 SAP 公司。
+文中提及的所有其他产品和服务名称均为各自所有人的商标。本文档中包含的数据仅供参考。各国的产品规格可能不同。
+上述资料如有变更，恕不另行通知。上述材料由 SAP SE 及其子公司 ("SAP Group") 提供，仅用于参考，SAP Group 对其不做任何陈述或保证，如有疏漏，概不负责。SAP Group 产品和服务的唯一担保是该产品和服务所附带的明文担保声明（如有）。文中所提及的任何信息不构成额外担保。

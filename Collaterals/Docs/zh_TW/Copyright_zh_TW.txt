@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE 或 SAP 附屬公司。保留所有權利。
+未經 SAP SE 授權，任何人不得以任何形式或根據任何用途進行重製或傳播此出版品的任何部份。 此處所包含資訊如有變更，恕不提前通知。 
+SAP SE 與其經銷商所販售之部份軟體產品包含其他軟體供應商的專有軟體元件。 
+Microsoft、Windows、Excel、Outlook 和 PowerPoint 為 Microsoft Corporation 的註冊商標。 
+IBM、DB2、DB2 Universal Database、System i、System i5、System p、System p5、System x、System z、System z10、System z9、z10、z9、iSeries、pSeries、xSeries、zSeries、eServer、z/VM、z/OS、i5/OS、S/390、OS/390、OS/400、AS/400、S/390 Parallel Enterprise Server、PowerVM、Power Architecture、POWER6+、POWER6、POWER5+、POWER5、POWER、OpenPower、PowerPC、BatchPipes、BladeCenter、System Storage、GPFS、HACMP、RETAIN、DB2 Connect、RACF、Redbooks、OS/2、Parallel Sysplex、MVS/ESA、AIX、Intelligent Miner、WebSphere、Netfinity、Tivoli 和 Informix 為 IBM Corporation 的商標或註冊商標。 
+Linux 為 Linus Torvalds 在美國及其他國家的註冊商標。
+Adobe、Adobe 標誌、Acrobat、PostScript、和 Reader 為 Adobe Systems Incorporated 在美國和/或其他國家的商標或註冊商標。
+Oracle 為 Oracle Corporation 的註冊商標。 
+UNIX、X/Open、OSF/1 和 Motif 為 Open Group 的註冊商標。 
+Citrix、ICA、Program Neighborhood、MetaFrame、WinFrame、VideoFrame 和 MultiWin 為 Citrix Systems, Inc 的商標或註冊商標。
+HTML、XML、XHTML 和 W3C 為 W3C®, World Wide Web Consortium, Massachusetts Institute of Technology 的商標或註冊商標。 
+Java 為 Sun Microsystems, Inc 的註冊商標。 
+JavaScript 為 Sun Microsystems, Inc 的註冊商標，在 Netscape 發明并建置的技術授權下使用。   
+SAP、R/3、SAP NetWeaver、Duet、PartnerEdge、ByDesign、SAP Business ByDesign 和此處所提及之其他 SAP 產品與服務，以及其相對應的標誌皆為 SAP SE 在德國和其他國家的商標和註冊商標。 
+Business Objects 和 Business Objects 標誌、BusinessObjects、Crystal Reports、Crystal Decisions、Web Intelligence、Xcelsius 和此處所提及之其他 Business Objects 產品與服務，以及其相對應的標誌皆為 Business Objects S.A. 在美國和其他國家的商標或註冊商標。 Business Objects 為 SAP 公司。
+此處所提及之所有其他產品與服務皆為其相對應公司的商標。 本文件所提供的資料僅供參考之用。 國家產品規格可能不同。
+這些資料如有變更，恕不另行通知。  SAP SE 和其附屬公司 ("SAP Group") 所提供的這些資料僅供參考之用，不具任何聲明與保固。SAP Group 對資料中的錯誤和遺漏，概不負責。 SAP Group 產品和服務的唯一保固，如這些產品和服務隨附之明示保固聲明中所述 (若有的話)。 在此提供的任何資料不可推斷為附加保固條款。

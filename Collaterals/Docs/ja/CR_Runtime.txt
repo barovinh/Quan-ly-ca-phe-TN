@@ -1,0 +1,16 @@
+﻿使用許諾契約の「Crystal Reports ランタイム製品」セクションに記述されている「ランタイム製品」の定義は、次のファイルに含まれる「ランタイム製品」のことです。
+
+CRYSTAL REPORTS .NET マージ モジュール
+================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm （xx は言語コード）
+
+ClickOnce およびスタンドアロン インストール用 Crystal Reports .NET Redistributable
+===========================================================
+32 ビット ランタイム：
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+64 ビット ランタイム：
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe

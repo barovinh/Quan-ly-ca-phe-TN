@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE 및 SAP 계열사. 모든 권한 보유.
+이 발행물의 어떠한 부분도 SAP SE의 명시적 허가 없이는 어떠한 형태나 목적으로도 재생산 또는 배포할 수 없습니다. 본 문서의 정보는 사전 예고 없이 변경될 수 있습니다. 
+SAP SE 및 그 유통업자가 판매하는 일부 소프트웨어 제품에는 다른 소프트웨어 공급업체 소유의 소프트웨어 구성 요소가 포함되어 있습니다. 
+Microsoft, Windows, Excel, Outlook 및 PowerPoint는 Microsoft Corporation의 등록 상표입니다. 
+IBM, DB2, DB2 Universal Database, System i, System i5, System p, System p5, System x, System z, System z10, System z9, z10, z9, iSeries, pSeries, xSeries, zSeries, eServer, z/VM, z/OS, i5/OS, S/390, OS/390, OS/400, AS/400, S/390 Parallel Enterprise Server, PowerVM, Power Architecture, POWER6+, POWER6, POWER5+, POWER5, POWER, OpenPower, PowerPC, BatchPipes, BladeCenter, System Storage, GPFS, HACMP, RETAIN, DB2 Connect, RACF, Redbooks, OS/2, Parallel Sysplex, MVS/ESA, AIX, Intelligent Miner, WebSphere, Netfinity, Tivoli 및 Informix는 IBM Corporation의 상표 또는 등록 상표입니다. 
+Linux는 미국 및 기타 국가에서 Linus Torvalds의 등록 상표입니다.
+Adobe, Adobe 로고, Acrobat, PostScript 및 Reader는 미국 및 기타 국가에서 Adobe Systems Incorporated의 상표 또는 등록 상표입니다.
+Oracle은 Oracle Corporation의 등록 상표입니다. 
+UNIX, X/Open, OSF/1 및 Motif는 Open Group의 등록 상표입니다. 
+Citrix, ICA, Program Neighborhood, MetaFrame, WinFrame, VideoFrame, MultiWin은 Citrix Systems, Inc.의 상표 또는 등록 상표입니다. 
+HTML, XML, XHTML 및 W3C는 Massachusetts Institute of Technology의 World Wide Web Consortium(W3C®)의 상표 또는 등록 상표입니다. 
+Java는 Sun Microsystems, Inc.의 등록 상표입니다. 
+JavaScript는 Sun Microsystems, Inc.의 등록 상표이며, Netscape가 개발 및 구현한 기술의 라이선스 하에 사용됩니다. 
+SAP, R/3, SAP NetWeaver, Duet, PartnerEdge, ByDesign, SAP Business ByDesign 및 본 문서에 언급된 기타 SAP 제품, 서비스와 해당 로고는 독일 및 기타 국가에서 사용되는 SAP SE의 상표 또는 등록 상표입니다. 
+Business Objects, Business Objects 로고, BusinessObjects, Crystal Reports, Crystal Decisions, Web Intelligence, Xcelsius 및 본 문서에 언급된 기타 Business Objects 제품, 서비스와 해당 로고는 미국 및 기타 국가에서 사용되는 Business Objects S.A.의 상표 또는 등록 상표입니다. Business Objects는 SAP 회사 중 하나입니다.
+기타 언급된 제품 및 서비스 이름은 해당 기업의 상표입니다. 이 문서에 포함된 데이터는 정보 전달의 목적으로만 사용됩니다. 국가별 제품 명세는 다를 수 있습니다.
+이 문서의 내용은 사전 예고 없이 변경될 수 있습니다. 이 문서는 SAP SE 및 계열사("SAP 그룹")에 정보 전달 목적으로만 제공되며 어떠한 것도 대표하거나 보증하지 않습니다. SAP 그룹은 이 문서의 오류나 누락 부분에 대한 책임을 지지 않습니다. SAP 그룹 제품 및 서비스 대한 보증은 해당 제품 및 서비스와 함께 제공되는 보증서에 명시된 내용으로 국한합니다. 이 문서의 어떤 내용도 추가 보증의 근거로 해석할 수 없습니다.

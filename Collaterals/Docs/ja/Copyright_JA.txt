@@ -1,0 +1,17 @@
+﻿© 2010 - 2023 SAP SE or an SAP affiliate company. All rights reserved.
+本書のいかなる部分も SAP SE の明示的許可なしに、いかなる形式、目的を問わず、複写、または発信することを禁じます。本書に記載された情報は、予告なしに変更されることがあります。
+SAP SE またはその販売店が販売するソフトウェア製品には、他のソフトウェア会社が所有権を有するソフトウェアコンポーネントが含まれています。
+Microsoft、Windows、Excel、Outlook、および PowerPoint は、Microsoft Corporation の登録商標です。
+IBM、DB2、DB2 Universal Database、System i、System i5、System p、System p5、System x、System z、System z10、System z9、z10、z9、iSeries、pSeries、xSeries、zSeries、eServer, z/VM、z/OS、i5/OS、S/390、OS/390、OS/400、AS/400、S/390 Parallel Enterprise Server、PowerVM、Power Architecture、POWER6+、POWER6、POWER5+、POWER5、POWER、OpenPower、PowerPC、BatchPipes、BladeCenter、System Storage、GPFS、HACMP、RETAIN、DB2 Connect、RACF、Redbooks、OS/2、Parallel Sysplex、MVS/ESA、AIX、Intelligent Miner、WebSphere、Netfinity、Tivoli、および InformixはIBM Corporation の商標または登録商標です。
+Linuxは、米国およびその他の国々におけるLinus Torvaldsの登録商標です。
+Adobe、Adobe ロゴ、Acrobat、PostScript、および Reader は、米国および/またはその他の国におけるAdobe Systems Incorporated の商標または登録商標です。
+Oracle は、Oracle Corporation の登録商標です。
+UNIX、X/Open、OSF/1、および Motif は、Open Group の登録商標です。
+Citrix、ICA、Program Neighborhood、MetaFrame、WinFrame、VideoFrame、および MultiWin は、Citrix Systems, Inc. の商標または登録商標です。
+HTML、XML、XHTML、および W3C は、W3C®、World Wide Web Consortium、Massachusetts Institute of Technology の商標または登録商標です。
+Java は、Sun Microsystems, Inc. の登録商標です。
+JavaScript は、Netscape により発明および導入された技術のライセンスに基づいて使用される Sun Microsystems, Inc の登録商標です。
+SAP、R/3、SAP NetWeaver、Duet、PartnerEdge、ByDesign、SAP Business ByDesign、および本文書に記載されたその他の SAP 製品、サービス、ならびにそれぞれのロゴは、ドイツおよびその他の国々における SAP SE の商標または登録商標です。
+Business Objects および Business Objectsロゴ、BusinessObjects、Crystal Reports、Crystal Decisions、Web Intelligence、Xcelsius、および本書で引用されているその他のBusiness Objects 製品およびサービス、ならびにそれぞれのロゴも含めて、米国およびその他の国々における Business Objects S.A. の商標または登録商標です。Business Objects は SAP のグループ企業です。
+本書に記載されたその他すべての製品およびサービス名は、それぞれの企業の商標です。本書に記載されたデータは情報提供のみを目的として提供されています。製品仕様は、国ごとに変わる場合があります。
+これらの文書の内容は、予告なしに変更されることがあります。これらの文書は SAP SE およびその関連会社（「SAP グループ」）が情報提供のためにのみ提供するもので、いかなる種類の表明および保証を伴うものではなく、SAP グループは文書に関する誤記・脱落等の過失に対する責任を負うものではありません。SAP グループの製品およびサービスに対する唯一の保証は、当該製品およびサービスに伴う明示的な保証がある場合に、これに規定されたものに限られます。本書のいかなる記述も、追加の保証となるものではありません。

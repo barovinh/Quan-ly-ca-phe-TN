@@ -1,0 +1,23 @@
+﻿Conform de definitie van "Runtime Product" in de sectie Crystal Reports Runtime Product
+van de Licentieovereenkomst bestaat "Runtime Product" uit de volgende bestanden:
+
+
+CRYSTAL REPORTS .NET-SAMENVOEGINGSMODULES
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm ,where xx is a specific language code.
+
+
+
+HERDISTRIBUEERBARE CRYSTAL REPORTS .NET-VERSIES VOOR ZELFSTANDIGE INSTALLATIES OF INSTALLATIES IN ÉÉN KLIK
+===========================================================================
+
+Runtime (32-bits versie):
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+Runtime (64-bits versie):
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

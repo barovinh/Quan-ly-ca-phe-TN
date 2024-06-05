@@ -1,0 +1,24 @@
+﻿依照授權合約中 "Crystal Reports Runtime Product"
+章節的 "Runtime Product" 相關涵義，"Runtime Product" 包含下列檔案：
+
+
+CRYSTAL REPORTS .NET 合併模組
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm，其中 xx 表示特定語言碼。
+
+
+
+針對 CLICKONCE 和 STANDALONE 安裝的 CRYSTAL REPORTS .NET 可轉散發檔案
+===========================================================================
+
+32 位元執行階段：
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+
+64 位元執行階段：
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

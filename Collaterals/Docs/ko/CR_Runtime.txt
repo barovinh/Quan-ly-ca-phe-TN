@@ -1,0 +1,22 @@
+﻿사용권 계약의 "Crystal Reports 런타임 제품" 섹션에 나온
+"런타임 제품"의 정의에 따라 "런타임 제품"은 다음 파일로 구성됩니다.
+
+
+CRYSTAL REPORTS .NET MERGE MODULES
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm(xx: 특정 언어 코드)
+
+
+CRYSTAL REPORTS .NET REDISTRIBUTABLES FOR CLICKONCE AND STANDALONE INSTALLS
+===========================================================================
+
+32비트 런타임:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+64비트 런타임:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

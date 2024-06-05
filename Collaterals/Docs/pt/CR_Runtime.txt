@@ -1,0 +1,22 @@
+﻿De acordo com a definição de "Produto Runtime" na seção "Produto Crystal Reports Runtime"
+do Contrato de licença, os seguintes produtos constituem o "Produto Runtime":
+
+
+CRYSTAL REPORTS .NET MERGE MODULES
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, onde xx é um código de idioma específico.
+
+
+CRYSTAL REPORTS .NET REDISTRIBUÍVEIS PARA INSTALAÇÕES CLICKONCE E STANDALONE
+===========================================================================
+
+Runtime 32-bit:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+Runtime 64-bit:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

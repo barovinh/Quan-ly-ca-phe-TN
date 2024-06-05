@@ -1,0 +1,22 @@
+﻿I seguenti file costituiscono un "Prodotto Runtime", in base alla definizione di "Prodotto Runtime" nella sezione "Prodotto Runtime Crystal Reports"
+del Contratto di licenza:
+
+
+MODULI DI UNIONE CRYSTAL REPORTS .NET
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm ,dove xx rappresenta un codice linguistico specifico.
+
+
+PROGRAMMI DI INSTALLAZIONE RIDISTRIBUIBILI CRYSTAL REPORTS .NET PER INSTALLAZIONI AUTONOME E CON UN SOLO CLIC
+===========================================================================
+
+Runtime a 32 bit:
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+Runtime a 64 bit:
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+

@@ -1,0 +1,5 @@
+SP01 - Cà phê đá - cà phê - 1000 - 10 - kg - CN01
+SP02 - Cà phê đen - cà phê - 1000 - 15  - kg - CN01
+SP03 - Cà phê muối - cà phê + muối - 20 - 10 - kg - CN01
+SP04 - Cà phê hạt - cà phê - 1000 - 10 - kg - CN01
+

@@ -1,0 +1,22 @@
+﻿Selon la définition du terme "Produit d'exécution" à la section "Produit d'exécution Crystal Reports"
+du Contrat de licence, les fichiers suivants constituent le "Produit d'exécution" :
+
+
+MODULES DE FUSION CRYSTAL REPORTS .NET
+==================================
+CRRuntime_13_0_maps.msm
+CRRuntime_13_0.msm
+CRRuntime_13_0_xx.msm, où xx représente un code langue spécifique.
+
+
+FICHIERS REDISTRIBUABLES CRYSTAL REPORTS .NET POUR LES INSTALLATIONS AUTONOMES ET CLICKONCE
+===========================================================================
+
+Exécution 32 bit :
+CRRuntime_32bit_13_0.msi
+CRRuntime_32bit_13_0.exe
+
+Exécution 64 bit :
+CRRuntime_64bit_13_0.msi
+CRRuntime_64bit_13_0.exe
+
